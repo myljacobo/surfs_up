@@ -12,11 +12,11 @@ The purpose of this analysis is to provide more information about temperature tr
 
 - One major point that can be derived from the two analysis deliverables is that there are more data temperatures from the month of June than there are in December. June has a total of 1700 dates and December has a total of 1517 days as shown below in the images. 
 
-![June temps](url) ![Dec temps](url)
+![June temps](https://github.com/myljacobo/surfs_up/blob/master/resources/June%20temps.png?raw=true) ![Dec temps](https://github.com/myljacobo/surfs_up/blob/master/resources/Dec%20temps.png?raw=true)
 
 - Although there are 183 more days recorded in June, the numbers show that even though June and December are polar opposites when considering the season, they still have similar average temperatures. The average temperature in June is 74.94 degrees Fahrenheit and 71.04 in December. December is only slightly cooler. 
 
-![June sum stats](url) ![Dec sum stats](url)
+![June sum stats](https://github.com/myljacobo/surfs_up/blob/master/resources/June%20summary%20stats.png?raw=true) ![Dec sum stats](https://github.com/myljacobo/surfs_up/blob/master/resources/Dec%20summary%20stats.png?raw=true)
 
 - The summary statistics for the temperature dataframes of June and December also show that they share similar max temperatures that are only different by 2 degrees Fahrenheit. June has a max temperature of 85 and December has a max temperature of 83.
 
@@ -28,8 +28,8 @@ Other additional queries that will also be a factor will be the precipiation tot
 
 ### June Precipitation
 
-![June prcp df](url) ![June prcp](url)
+![June prcp df](https://github.com/myljacobo/surfs_up/blob/master/resources/June%20prcp%20df.png?raw=true) ![June prcp](https://github.com/myljacobo/surfs_up/blob/master/resources/June%20prcp.png?raw=true)
 
 ### December Precipitation
 
-![Dec prcp df](url) ![Dec prcp](url)
+![Dec prcp df](https://github.com/myljacobo/surfs_up/blob/master/resources/Dec%20prcp%20df.png?raw=true) ![Dec prcp](https://github.com/myljacobo/surfs_up/blob/master/resources/Dec%20prcp.png?raw=true)
